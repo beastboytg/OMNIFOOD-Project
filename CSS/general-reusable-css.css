@@ -8,6 +8,9 @@
     column-gap: 6.4rem;;
     row-gap:9.6rem;
 }
+.grid:not(:last-child){
+    margin-bottom: 9.6rem;
+}
 .grid--center-v{
     align-items:center;
 }
@@ -60,4 +63,21 @@
 }
 .center-text{
     text-align:center;
+}
+.list{
+    list-style:none;
+    display:flex;
+    flex-direction: column;
+    gap:1.6rem;
+}
+.list-item{
+    font-size:1.8rem;
+    display:flex;
+    align-items:center;
+    gap:1.6rem;
+}
+.list-icon{
+    height:3rem;
+    width:3rem;
+    color:#e67e22;
 }
