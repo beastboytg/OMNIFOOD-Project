@@ -1,3 +1,6 @@
+.call-to-action{
+    padding:4.8rem 0 12.8rem 0;
+}
 .cta{
     display:grid;
     grid-template-columns: 2fr 1fr;
