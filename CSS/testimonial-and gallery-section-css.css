@@ -1,5 +1,8 @@
 .section-testimonial{
     background-color: #fdf2e9;
+    display: grid;
+    grid-template-columns: 55fr 45fr;
+    align-items: center;
 }
 .testimonial-container{
     padding:6.4rem;
@@ -41,9 +44,4 @@
     grid-template-columns: repeat(3,1fr);
     gap:1.6rem;
     padding:1.6rem;
-}
-.section-testimonial{
-    display: grid;
-    grid-template-columns: 55fr 45fr;
-    align-items: center;
 }
