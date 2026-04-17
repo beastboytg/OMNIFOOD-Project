@@ -21,7 +21,7 @@ A fully responsive food delivery website built using **HTML** and **CSS**, inspi
 ![Desktop View](./project-preview/Desktop-view.png)
 
 ### 📱 Mobile View
-![Mobile View](./project-preview/Mobile-view.png)
+![Mobile View](./project-preview/Mobile-view.jpg)
 
 ## 🌐 Live Demo
 👉 [View Website](https://omnifood-tanmay.netlify.app/)
